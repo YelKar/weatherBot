@@ -1,0 +1,6 @@
+colorama
+cloudscraper
+bs4
+beautifulsoup4
+pyTelegramBotAPI
+loguru
